@@ -97,7 +97,7 @@ A full-featured expense tracking application with a modern React frontend and No
    For MongoDB Atlas (cloud), use:
 
    ```env
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/expense-tracker
+   
    ```
 
 4. **Start the backend**
@@ -359,5 +359,6 @@ If you encounter any issues, please check:
 
 ---
 
-**Happy Expense Tracking! 💰📊**#   e x p e n s e - t r a c k e r  
+**Happy Expense Tracking! 💰📊**#   e x p e n s e - t r a c k e r 
+ 
  
